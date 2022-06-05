@@ -1,0 +1,21 @@
+button.calendar, button.calendar:active {
+    width: 2.75rem;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAcCAYAAAAEN20fAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEUSURBVEiJ7ZQxToVAEIY/YCHGxN6XGOIpnpaEsBSeQC9ArZbm9TZ6ADyBNzAhQGGl8Riv4BLAWAgmkpBYkH1b8FWT2WK/zJ8ZJ4qiI6XUI3ANnGKWBnht2/ZBDRK3hgVGNsCd7/ui+JkEIrKtqurLpEWaphd933+IyI3LEIdpCYCiKD6HcuOa/nwOa0ScJEnk0BJg0UTUWJRl6RxCYEzEmomsIlPU3IPW+grIAbquy+q6fluy/28RIBeRMwDXdXMgXLj/B2uimRXpui4D9sBeRLKl+1N+L+t6RwbWrZliTTTr1oxYtzVWiTQAcRxvTX+eJMnlUDaO1vpZRO5NS0x48sIwfPc87xg4B04MCzQi8hIEwe4bl1DnFMCN2zsAAAAASUVORK5CYII=') !important;
+    background-repeat: no-repeat;
+    background-size: 23px;
+    background-position: center;
+  }
+  :host ::ng-deep .ngb-dp-day, :host ::ng-deep.ngb-dp-week-number, :host ::ng-deep.ngb-dp-weekday{
+    width: 3.4rem !important;
+    text-align: center;
+  }
+//   :host ::ng-deep .btn-light:not(:disabled):not(.disabled).active, :host ::ng-deep .btn-light:not(:disabled):not(.disabled):active, :host ::ng-deep .show>.btn-light.dropdown-toggle, :host ::ng-deep .btn-light:hover,:host ::ng-deep .btn-light
+//   {
+//     width: 4.8rem !important;
+//   }
+//   :host ::ng-deep .dropdown-menu.show{
+//     width: 92%;
+//   }
+//   :host ::ng-deep .text-muted{
+//     opacity: 0.4;
+//   }
